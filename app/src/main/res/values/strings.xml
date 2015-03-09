@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">easyDrive</string>
+    <string name="title_section1">Login</string>
+    <string name="title_section2">Home</string>
+
+    <string name="title_section3">Activities</string>
+    <string name="title_section4">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Sign Out</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- strings for login page -->
+    <string name="welcome">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- strings shared by most page -->
+    <string name="submit">Submit</string>
+
+
+    <!-- strings for admin page -->
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="date">Assignment Date</string>
+
+    <!-- strings for menu page -->
+
+
+
+</resources>
