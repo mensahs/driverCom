@@ -2,8 +2,8 @@
 <resources>
 
     <string name="app_name">driverCom</string>
-    <string name="title_section1">name</string>
-    <string name="title_section2">Test</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Settings</string>
 
     <string name="title_section3">Activities</string>
     <string name="title_section4">Settings</string>
