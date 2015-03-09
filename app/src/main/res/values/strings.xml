@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">driverCom1</string>
-    <string name="title_section1">lol</string>
+    <string name="app_name">driverCom</string>
+    <string name="title_section1">GITHUB</string>
     <string name="title_section2">Test</string>
 
     <string name="title_section3">Activities</string>
