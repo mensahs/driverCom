@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">driverCom</string>
-    <string name="title_section1">hello</string>
+    <string name="title_section1">name</string>
     <string name="title_section2">Test</string>
 
     <string name="title_section3">Activities</string>
